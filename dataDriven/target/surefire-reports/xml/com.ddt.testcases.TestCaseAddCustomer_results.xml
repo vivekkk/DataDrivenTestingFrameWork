@@ -4,12 +4,12 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="1.560">
+           time="2.348">
   <properties />
   
   
-            <testcase name="addCustomer" time="0.361" classname="com.ddt.testcases.TestCaseAddCustomer" />
-                <testcase name="addCustomer" time="0.481" classname="com.ddt.testcases.TestCaseAddCustomer" />
-                <testcase name="addCustomer" time="0.718" classname="com.ddt.testcases.TestCaseAddCustomer" />
+            <testcase name="addCustomer" time="0.670" classname="com.ddt.testcases.TestCaseAddCustomer" />
+                <testcase name="addCustomer" time="0.714" classname="com.ddt.testcases.TestCaseAddCustomer" />
+                <testcase name="addCustomer" time="0.964" classname="com.ddt.testcases.TestCaseAddCustomer" />
       
 </testsuite>

@@ -1,0 +1,29 @@
+package com.ddt.utilities;
+
+import org.testng.annotations.DataProvider;
+
+import com.ddt.rough.TestProperties;
+
+public class DataProviders extends TestProperties  {
+
+	@DataProvider(name="exceldp")
+	public Object[][] addCustomer() throws Throwable
+	{
+		ExcelReading ex=new ExcelReading(configprop.getProperty("CustDataExcelPath"));
+		int colnum=ex.getTotalcolNum();
+		int rownum=ex.getTotalrowNumb();
+		
+		Object[][] dataobj= new Object[rownum-1][colnum];
+		for (int i = 1; i <= rownum - 1; i++) {
+			for (int j = 0; j < colnum; j++) {
+				dataobj[i - 1][j] = ex.getData(0, i, j);
+				System.out.println(dataobj[i - 1][j]);
+
+			}
+		}
+		
+		
+		return dataobj;
+		
+	}
+}

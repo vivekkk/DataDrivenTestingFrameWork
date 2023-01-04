@@ -41,7 +41,7 @@ public class CustomListners implements ITestListener {
 			String screenshotpath = TestUtils.captureScreenshot();
 			Base.test.log(LogStatus.PASS, "This test" + result.getName().toUpperCase() + "is Passed");
 
-			Base.test.log(LogStatus.FAIL, Base.test.addScreenCapture(screenshotpath));
+			Base.test.log(LogStatus.PASS, Base.test.addScreenCapture(screenshotpath));
 			Reporter.log("Capturing Screenshot");
 			Reporter.log("<a target=\"_blank\"  href=" + screenshotpath + ">ScreenShot</a>");
 			Reporter.log("<br>");

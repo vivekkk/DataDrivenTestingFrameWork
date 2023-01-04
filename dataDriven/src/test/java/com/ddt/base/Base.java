@@ -41,7 +41,7 @@ public class Base extends TestProperties {
 	public static ExtentReports rep;  // this is called in before suite method.
 	public static ExtentTest test; // define the extend logs
 	public  WebDriverWait wait;  // Initialize the wait for the application
-	
+	public static String browser;
 	public  static void setExtentReport() throws FileNotFoundException
 	{
 		rep=ExtentManager.getInstance();
@@ -56,7 +56,19 @@ public class Base extends TestProperties {
 		System.setProperty("org.uncommons.reportng.escape-output", "false");  // if this is not added then ReportNg would not display the html code on report as HTML it would show as text.
 		try {
 		setExtentReport();
-		if(TestProperties.configprop.getProperty("browser").equals("firefox") )
+		if(System.getenv("browser")==null)
+		{
+			browser=TestProperties.configprop.getProperty("browser");
+		}
+		else if(!System.getenv("browser").isEmpty() && System.getenv("browser")!=null )
+		{ // this env variable works as jenkins env variable..
+			browser=System.getenv("browser");
+		}
+		else
+		{
+			browser=TestProperties.configprop.getProperty("browser");
+		}
+		if(browser.equals("firefox") )
 		{
 			WebDriverManager.firefoxdriver().setup();
 			DesiredCapabilities cap=new DesiredCapabilities();
@@ -66,11 +78,11 @@ public class Base extends TestProperties {
 		    FirefoxOptions fo=new FirefoxOptions();
 		    fo.merge(cap);
 		   logger.info("Firefox options are merge");
-			this.driver =new FirefoxDriver(fo);	
+			Base.driver =new FirefoxDriver(fo);	
 			logger.info("intitalizing the firfoxdriver");
 			
 		}
-		if(TestProperties.configprop.getProperty("browser").equals("chrome") )
+		if(browser.equals("chrome") )
 		{
 			WebDriverManager.chromedriver().setup();
 			DesiredCapabilities cap=new DesiredCapabilities();
@@ -80,7 +92,7 @@ public class Base extends TestProperties {
 		    ChromeOptions co=new ChromeOptions();
 		    co.merge(cap);
 		   logger.info("chrome options are merge");
-			this.driver =new ChromeDriver(co);	
+			Base.driver =new ChromeDriver(co);	
 			System.out.println("Initializing the chrome driver");
 			logger.error("error intitalizing the chrome capabilities");
 			logger.warn("warn intitalizing the chrome capabilities");
@@ -173,7 +185,7 @@ public class Base extends TestProperties {
 	@AfterSuite
 	public void teardown()
 	{
-		//driver.quit();
+		driver.quit();
 		logger.error("Browser is closed...");
 	}
 	

@@ -1,0 +1,11 @@
+com\ddt\utilities\ExtentManager.class
+com\ddt\testcases\TestCaseAddCustomer.class
+com\ddt\rough\TestProperties.class
+com\ddt\testcases\TestCaseOpenAccount.class
+com\ddt\base\Base.class
+com\ddt\utilities\DataProviders.class
+com\ddt\base\TotestLogic.class
+com\ddt\listners\CustomListners.class
+com\ddt\utilities\TestUtils.class
+com\ddt\testcases\TestCases.class
+com\ddt\utilities\ExcelReading.class

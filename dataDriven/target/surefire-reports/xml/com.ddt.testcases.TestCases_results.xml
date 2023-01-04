@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="4.840">
+           time="5.607">
   <properties />
   
   
-            <testcase name="mgrLogin" time="4.840" classname="com.ddt.testcases.TestCases" />
+            <testcase name="mgrLogin" time="5.607" classname="com.ddt.testcases.TestCases" />
       
 </testsuite>

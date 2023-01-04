@@ -1,0 +1,4 @@
+browser=chrome
+siteUrl=https://www.way2automation.com/angularjs-protractor/banking/#/login
+wait=10
+CustDataExcelPath=D:\\dataDrivenTestingProject\\dataDriven\\src\\test\\resources\\customerdata.xlsx

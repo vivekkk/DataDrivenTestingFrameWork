@@ -4,12 +4,12 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="1.582">
+           time="3.339">
   <properties />
   
   
-            <testcase name="openAccount" time="0.425" classname="com.ddt.testcases.TestCaseOpenAccount" />
-                <testcase name="openAccount" time="0.591" classname="com.ddt.testcases.TestCaseOpenAccount" />
-                <testcase name="openAccount" time="0.566" classname="com.ddt.testcases.TestCaseOpenAccount" />
+            <testcase name="openAccount" time="1.263" classname="com.ddt.testcases.TestCaseOpenAccount" />
+                <testcase name="openAccount" time="1.241" classname="com.ddt.testcases.TestCaseOpenAccount" />
+                <testcase name="openAccount" time="0.835" classname="com.ddt.testcases.TestCaseOpenAccount" />
       
 </testsuite>
