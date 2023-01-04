@@ -1,0 +1,4 @@
+# Created at 2022-12-26T22:01:54.809
+
+Method "TestCases.openAccount(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.ddt.testcases.TestCases@232a7d73]" depends on nonexistent method "addCustomer"
+

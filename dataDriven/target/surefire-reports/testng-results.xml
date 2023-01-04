@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="11" passed="7" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Login to the website is successfull]]>
+    </line>
+    <line>
+      <![CDATA[Capturing Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_49_IST_2023.png>ScreenShot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_49_IST_2023.png><image src=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_49_IST_2023.png height=200 width=200></a>]]>
+    </line>
+    <line>
+      <![CDATA[Capturing Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_51_IST_2023.png>ScreenShot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_51_IST_2023.png><image src=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_51_IST_2023.png height=200 width=200></a>]]>
+    </line>
+    <line>
+      <![CDATA[Capturing Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_52_IST_2023.png>ScreenShot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_52_IST_2023.png><image src=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_52_IST_2023.png height=200 width=200></a>]]>
+    </line>
+    <line>
+      <![CDATA[Capturing Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_52_IST_2023.png>ScreenShot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_52_IST_2023.png><image src=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_52_IST_2023.png height=200 width=200></a>]]>
+    </line>
+    <line>
+      <![CDATA[Capturing Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_53_IST_2023.png>ScreenShot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_53_IST_2023.png><image src=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_53_IST_2023.png height=200 width=200></a>]]>
+    </line>
+    <line>
+      <![CDATA[Capturing Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_54_IST_2023.png>ScreenShot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_54_IST_2023.png><image src=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_54_IST_2023.png height=200 width=200></a>]]>
+    </line>
+    <line>
+      <![CDATA[Capturing Screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_55_IST_2023.png>ScreenShot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_55_IST_2023.png><image src=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_55_IST_2023.png height=200 width=200></a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-01-04T09:46:44 IST" name="Suite" finished-at="2023-01-04T09:46:55 IST" duration-ms="10613">
+    <groups>
+    </groups>
+    <test started-at="2023-01-04T09:46:44 IST" name="Test" finished-at="2023-01-04T09:46:55 IST" duration-ms="10613">
+      <class name="com.ddt.testcases.TestCaseOpenAccount">
+        <test-method signature="openAccount(java.util.Hashtable)[pri:0, instance:com.ddt.testcases.TestCaseOpenAccount@52066604]" started-at="2023-01-04T09:46:53 IST" name="openAccount" data-provider="exceldp" finished-at="2023-01-04T09:46:53 IST" duration-ms="566" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Currency=Pound, FirstName=Hasan, Run=Y, LastName=jubair}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Capturing Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_53_IST_2023.png>ScreenShot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_53_IST_2023.png><image src=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_53_IST_2023.png height=200 width=200></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openAccount -->
+        <test-method signature="openAccount(java.util.Hashtable)[pri:0, instance:com.ddt.testcases.TestCaseOpenAccount@52066604]" started-at="2023-01-04T09:46:53 IST" name="openAccount" data-provider="exceldp" finished-at="2023-01-04T09:46:54 IST" duration-ms="591" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Currency=Dollar, FirstName=Utkarsh, Run=Y, LastName=Singh}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Capturing Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_54_IST_2023.png>ScreenShot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_54_IST_2023.png><image src=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_54_IST_2023.png height=200 width=200></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openAccount -->
+        <test-method signature="openAccount(java.util.Hashtable)[pri:0, instance:com.ddt.testcases.TestCaseOpenAccount@52066604]" started-at="2023-01-04T09:46:54 IST" name="openAccount" data-provider="exceldp" finished-at="2023-01-04T09:46:55 IST" duration-ms="425" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Currency=Rupee, FirstName=Ahana, Run=Y, LastName=Bhandari}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Capturing Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_55_IST_2023.png>ScreenShot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_55_IST_2023.png><image src=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_55_IST_2023.png height=200 width=200></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openAccount -->
+      </class> <!-- com.ddt.testcases.TestCaseOpenAccount -->
+      <class name="com.ddt.testcases.TestCaseAddCustomer">
+        <test-method signature="addCustomer(java.util.Hashtable)[pri:0, instance:com.ddt.testcases.TestCaseAddCustomer@4a194c39]" started-at="2023-01-04T09:46:50 IST" name="addCustomer" data-provider="exceldp" finished-at="2023-01-04T09:46:51 IST" duration-ms="718" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{PostCode=600045, FirstName=Hasan, Run=Y, LastName=jubair}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Capturing Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_51_IST_2023.png>ScreenShot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_51_IST_2023.png><image src=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_51_IST_2023.png height=200 width=200></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method signature="addCustomer(java.util.Hashtable)[pri:0, instance:com.ddt.testcases.TestCaseAddCustomer@4a194c39]" started-at="2023-01-04T09:46:51 IST" name="addCustomer" data-provider="exceldp" finished-at="2023-01-04T09:46:52 IST" duration-ms="481" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{PostCode=700089, FirstName=Utkarsh, Run=Y, LastName=Singh}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Capturing Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_52_IST_2023.png>ScreenShot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_52_IST_2023.png><image src=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_52_IST_2023.png height=200 width=200></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method signature="addCustomer(java.util.Hashtable)[pri:0, instance:com.ddt.testcases.TestCaseAddCustomer@4a194c39]" started-at="2023-01-04T09:46:52 IST" name="addCustomer" data-provider="exceldp" finished-at="2023-01-04T09:46:52 IST" duration-ms="361" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{PostCode=900091, FirstName=Ahana, Run=Y, LastName=Bhandari}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Capturing Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_52_IST_2023.png>ScreenShot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_52_IST_2023.png><image src=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_52_IST_2023.png height=200 width=200></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+      </class> <!-- com.ddt.testcases.TestCaseAddCustomer -->
+      <class name="com.ddt.testcases.TestCases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ddt.testcases.TestCases@767e20cf]" started-at="2023-01-04T09:46:41 IST" name="setup" finished-at="2023-01-04T09:46:44 IST" duration-ms="3206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="mgrLogin()[pri:0, instance:com.ddt.testcases.TestCases@767e20cf]" started-at="2023-01-04T09:46:44 IST" name="mgrLogin" finished-at="2023-01-04T09:46:49 IST" duration-ms="4840" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login to the website is successfull]]>
+            </line>
+            <line>
+              <![CDATA[Capturing Screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_49_IST_2023.png>ScreenShot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank"  href=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_49_IST_2023.png><image src=D:\dataDrivenTestingProject\dataDriven\target\surefire-reports\html\ScreenShotWed_Jan_04_09_46_49_IST_2023.png height=200 width=200></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- mgrLogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.ddt.testcases.TestCases@767e20cf]" started-at="2023-01-04T09:46:55 IST" name="teardown" finished-at="2023-01-04T09:46:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.ddt.testcases.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

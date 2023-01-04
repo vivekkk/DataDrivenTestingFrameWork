@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.560">
+  <properties />
+  
+  
+            <testcase name="addCustomer" time="0.361" classname="com.ddt.testcases.TestCaseAddCustomer" />
+                <testcase name="addCustomer" time="0.481" classname="com.ddt.testcases.TestCaseAddCustomer" />
+                <testcase name="addCustomer" time="0.718" classname="com.ddt.testcases.TestCaseAddCustomer" />
+      
+</testsuite>
